@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Azeret Mono', monospace;
+  }
+  
+  .navbar {
+    padding: 25px 40px;
+  }
+  
+  .navbar-brand {
+    color: yellow;
+    font-family: 'Righteous', cursive;
+    font-size: 38px !important;
+  }
+  
+  .nav-item {
+     padding: 20px;
+  }
+
+  .nav-link {
+    text-decoration: none;
+    margin-left: 14px;
+    margin-right: 14px;
+    font-size: 20px;
+    font-weight: bold;
+    color:#0d6efd;
+  }
+  
+  .nav-link:hover {
+    color: #fffdfd !important;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .hero-brand-section {
+    height: 80vh;
+    width: 100%;
+}
+  
+  .hero-brand {
+    width: 100%;
+    height: 80vh;
+  }
+  
+  .hero-title {
+    color: #fff;
+    position: relative;
+    bottom: 335px;
+    left: 75px;
+    font-family: 'Righteous', cursive;
+  }
+  
+  .hero-text {
+    color: #ffffff;
+    position: relative;
+    bottom: 328px;
+    left: 75px;
+  }
+
+  .featured {
+    display:flex;
+    justify-content: center;
+    padding-top: 40px;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: linear-gradient(#f5f5fc,#f5ecec)
+  }
+
+.card-title {
+    text-align: center;
+    color: #0d6efd;
+    font-size: 24px;
+    font-weight: bold;
+}
+.card-body {
+   text-align: center;
+   padding: 0px !important;
+}
+
+.card-text {
+    color: #0c0c0c;
+    padding: 4px 0px 22px 0px;
+}
+
+.card-text-2 {
+    color: #fff;
+    padding: 4px 0px 22px 0px;
+}
+
+.featured-another {
+    display:flex;
+    justify-content: center;
+    padding-top: 40px;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: linear-gradient(#0d0d0e,#0c0c0c)
+}
+
+.featured-services {
+    display:flex;
+    justify-content: center;
+    padding-top: 40px;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: linear-gradient(#0c0c24,#161642)
+}
+
+.card-body-2 {
+    text-align: center;
+}
+
+.main-highlight {
+    background-color: #fff;
+    padding: 45px 60px;
+}
+
+.text-center {
+  color:#0d6efd; 
+}
+
+.footer {
+    background-color: #01060e;
+    color:#fff;
+    padding: 20px;
+}
+
+.footer-brand {
+    color: yellow;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.footer-text {
+    color: #fff;
+    font-weight: bold;
+    line-height: 1.2rem;
+}
+
+.footer-items {
+    list-style-type: none;
+    color: #fff;
+    text-align: center;
+}
+
+.footer-link a {
+    text-decoration: none;
+    color: #0d6efd;
+    font-size: 20px;
+}
+
+.footer-link a:hover {
+    color: #fff;
+    transition: all 0.4s ease-out;
+    cursor: pointer;
+}
+
+.footer-copyright {
+    color: Yellow;
+    text-align: center;
+}
+
+
+   
